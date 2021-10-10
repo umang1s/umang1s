@@ -2,8 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=umang1s&color=green)
 
 
-- 🔭 I’m currently working on Emotion recognition.
-- 🌱 I’m currently learning Machine-Learning + Deep-Learning.
+- 🔭 I’m working on Emotion recognition.
+- 🌱 I’m learning Machine-Learning + Deep-Learning.
 - ⚡ Fun fact: I love 😍👨🏻‍💻🏎💤
 
 
